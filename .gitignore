@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.venv/
+venv/
+data/price_radar.db
+data/exports/*.csv
+data/exports/*.xlsx
+data/raw/*_20*.html
+logs/*.log
+.DS_Store
